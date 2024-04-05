@@ -13,7 +13,7 @@ Tecnologias usadas neste projeto:
 - Vite
 - Vercel
 
-Link do projeto online: [ToDo-list]([https://valorant-clone-sigma.vercel.app/](https://react-todo-list-theta-hazel.vercel.app/))
+Link do projeto online: [ToDo-List](https://react-todo-list-theta-hazel.vercel.app/)
 
 -------------------------------------
 
@@ -28,7 +28,7 @@ Technologies used in this project:
 - Vite
 - Vercel
 
-You can see the project right here: [ToDo-list]([https://valorant-clone-sigma.vercel.app/](https://react-todo-list-theta-hazel.vercel.app/))
+You can see the project right here: [ToDo-List](https://react-todo-list-theta-hazel.vercel.app/)
 
 
 
